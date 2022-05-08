@@ -1,4 +1,4 @@
-<img src="git_logo.png" align="center" >
+<img src="imagens/git_logo.png" align="center" >
 
 # Oi, eu sou a Vanessa Ruama
 

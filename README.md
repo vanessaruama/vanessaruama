@@ -3,7 +3,7 @@
 # Oi, eu sou a Vanessa Ruama
 
 <a href="https://www.linkedin.com/in/vanessa-ruama/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin.com/in/vanessa-ruama"/></a>
-- 👨‍💻 Sou Analista Desenvolvedora I
+- 👨‍💻 Sou Analista Desenvolvedora II
 - 🔭 Atualmente trabalho na **TOTVS**
 - 📝 Estou sempre estudando e me atualizando sobre novas tecnologias
 - 📝 Sou graduada em Gestão de TI

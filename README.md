@@ -6,8 +6,7 @@
 - 👨‍💻 Sou Analista Desenvolvedora II
 - 🔭 Atualmente trabalho na **TOTVS** - Linguagens Advpl e TLPP
 - 📝 Estou sempre estudando e me atualizando sobre novas tecnologias
-- 📝 Sou graduada em Gestão de TI
-- 📝 Estou cursando ADS na Faculdade FECAP
+- 📝 Sou graduada em Gestão de TI e ADS
 - ⚡ Um fato sobre mim: Minha série favorita é **Stranger Things**
 
 # Linguagens e ferramentas:

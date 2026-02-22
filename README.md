@@ -30,7 +30,7 @@
 <a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="visualcode"/></a>
 
 <img height="250em"
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vanessaruama&layout=compact&theme=radical"/>
+src="https://github-readme-stats-iota-fawn-71.vercel.app/api/top-langs/?username=vanessaruama&layout=compact&theme=radical"/>
 
 # Projeto da Faculdade:
 - 📝 Aplicativo Mobile utilizando o Xamarin e Node.js - https://github.com/2022S1P3/PromoverSaude

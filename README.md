@@ -4,7 +4,7 @@
 
 <a href="https://www.linkedin.com/in/vanessa-ruama/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin.com/in/vanessa-ruama"></a>
 <a href="https://medium.com/@vanessa.ruama" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="https://medium.com/@vanessa.ruama"></a>
-- 👨‍💻 Sou Analista Desenvolvedora II
+- 👨‍💻 Sou Desenvolvera
 - 🔭 Atualmente trabalho na **TOTVS** - Linguagens Advpl e TLPP
 - 📝 Estou sempre estudando e me atualizando sobre novas tecnologias
 - 📝 Sou graduada em Gestão de TI e ADS
